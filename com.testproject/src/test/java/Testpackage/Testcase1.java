@@ -50,7 +50,7 @@ public class Testcase1 {
 		Select select1= new Select(select);
 		select1.selectByVisibleText("Africa");
 		Thread.sleep(10000);
-		
+		// test comments
 		System.out.println("First test");
 		
 	}
